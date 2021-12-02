@@ -84,7 +84,7 @@
 	
 	<div id="container">
 		
-		<h1>HTML table inverter</h1>
+		<h1>HTML table swapper</h1>
 		
 		<div>
 			<p>Copy/paste your HTML table below to instantly get its equivalent but with the row and columns swapped.</p>
