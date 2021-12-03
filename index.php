@@ -63,6 +63,7 @@
 		.preview {
 			width: 90%;
 			padding: 10px;
+			overflow: auto;
 		}
 		.preview td, .preview th {
 			border: solid 1px;
